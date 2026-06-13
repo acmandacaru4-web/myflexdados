@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.0.0",
-    "dataExport": "2026-06-13T01:14:43.126Z",
+    "dataExport": "2026-06-13T01:15:41.539Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1177,7 +1177,7 @@
   ],
   "trajetos": [
     {
-      "nome": "Circuito Clinicas Aracaju",
+      "nome": "Aracaju",
       "dist": 227,
       "freq": "mes",
       "vezes": 1,
