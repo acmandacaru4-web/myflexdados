@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T17:52:45.798Z",
+    "dataExport": "2026-06-20T17:55:24.114Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1239,13 +1239,6 @@
       "freq": "eventual",
       "vezes": 0,
       "mapsUrl": "http://maps.google.com/maps?saddr=(-10.2113438%2C-36.8328475)&daddr=Retiro%20to%3AE.E%20Professor%20Pedro%20Reys%20to%3ARetiro%20to%3ACasa&geocode=FfEvZP8dsfnN_Q%3D%3D%3BFVxkZv8dQCrQ_SkAAAAAAAAAADFYTFmMb5YFcA%3D%3D%3BFf9tZf8dGbnQ_SkAAAAAAAAAADE3OHwITY-N6g%3D%3D%3BFVxkZv8dQCrQ_SkAAAAAAAAAADFYTFmMb5YFcA%3D%3D%3BFbMtZP8dFvbN_SkAAAAAAAAAADGJbD7yYVgHng%3D%3D&dirflg=d"
-    },
-    {
-      "nome": "Pirambu - Aracaju - Trevo de Japaratuba",
-      "dist": 97,
-      "freq": "semana",
-      "vezes": 0,
-      "mapsUrl": "https://maps.app.goo.gl/Ae9ATg7C1N1JbEg59"
     }
   ],
   "manutencao": [
