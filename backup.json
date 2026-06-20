@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "versaoApp": "1.0.0",
-    "dataExport": "2026-06-13T01:15:41.539Z",
+    "versaoApp": "1.1.0",
+    "dataExport": "2026-06-20T12:43:36.725Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -273,53 +273,6 @@
       "posto": "",
       "desc": "Odometro estimado para media 11.9 km/L",
       "volumeTotal": 18.49,
-      "combC": "Gasolina",
-      "misto": false
-    },
-    {
-      "data": "09/06/26",
-      "odo": 0,
-      "km": 0,
-      "vol": 15,
-      "cons": 0,
-      "comb": "Gasolina",
-      "total": 106.05,
-      "pl": 7.07,
-      "posto": "Jet 7",
-      "desc": "",
-      "parcial": true,
-      "combC": "Gasolina",
-      "misto": false
-    },
-    {
-      "data": "10/06/26",
-      "odo": 25479,
-      "km": 470,
-      "vol": 29.003,
-      "cons": 10.68,
-      "comb": "Gasolina",
-      "total": 205.05,
-      "pl": 7.07,
-      "posto": "Jet Set",
-      "desc": "",
-      "parcial": false,
-      "volumeTotal": 44,
-      "combC": "Gasolina",
-      "misto": false
-    },
-    {
-      "data": "12/06/26",
-      "odo": 25877,
-      "km": 398,
-      "vol": 32.684,
-      "cons": 12.18,
-      "comb": "Gasolina",
-      "total": 231.08,
-      "pl": 7.07,
-      "posto": "Jet7",
-      "desc": "",
-      "parcial": false,
-      "volumeTotal": 32.68,
       "combC": "Gasolina",
       "misto": false
     }
@@ -1143,93 +1096,56 @@
   "postos": [
     {
       "nome": "Posto PEL",
-      "gasP": 7.1,
-      "ethP": 5.6,
+      "gasP": 6.85,
+      "ethP": 4.95,
       "gasKmL": 10.2,
-      "ethKmL": 8.1,
-      "gasT": "Aditivada",
-      "ethT": "Aditivado",
-      "favEth": true,
-      "favGas": false
+      "ethKmL": 8.1
     },
     {
       "nome": "Posto Arthur Melo",
-      "gasP": 7.07,
-      "ethP": 5.6,
+      "gasP": 7.12,
+      "ethP": 5.24,
       "gasKmL": 10.2,
-      "ethKmL": 8.1,
-      "favEth": false,
-      "gasT": "Aditivada",
-      "ethT": "Aditivado",
-      "favGas": true
+      "ethKmL": 8.1
     },
     {
       "nome": "Posto Orla Propria",
-      "gasP": 7.07,
-      "ethP": 5.6,
+      "gasP": 7.12,
+      "ethP": 5.24,
       "gasKmL": 10.2,
-      "ethKmL": 8.1,
-      "favEth": false,
-      "favGas": false,
-      "gasT": "Aditivada",
-      "ethT": "Aditivado"
+      "ethKmL": 8.1
     }
   ],
   "trajetos": [
     {
-      "nome": "Aracaju",
+      "nome": "Circuito Clinicas Aracaju",
       "dist": 227,
-      "freq": "mes",
-      "vezes": 1,
-      "mapsUrl": ""
+      "freq": "semana",
+      "vezes": 1
     },
     {
       "nome": "Baixa Grande por Sapucaia",
       "dist": 140,
       "freq": "eventual",
-      "vezes": 0,
-      "mapsUrl": "https://maps.app.goo.gl/RNiii31HGsjQftSG7"
+      "vezes": 0
     },
     {
       "nome": "Baixa Grande por Lagoa Redonda",
       "dist": 181,
-      "freq": "semana",
-      "vezes": 1,
-      "mapsUrl": "https://maps.app.goo.gl/tJuLZBwAvRSZ4Bk1A"
+      "freq": "eventual",
+      "vezes": 0
     },
     {
       "nome": "Retiro",
       "dist": 67.3,
-      "freq": "quinzena",
-      "vezes": 1,
-      "mapsUrl": ""
+      "freq": "semana",
+      "vezes": 1
     },
     {
       "nome": "Pedro Reys",
       "dist": 66.8,
       "freq": "semana",
       "vezes": 2
-    },
-    {
-      "nome": "Mãe",
-      "dist": 5.1,
-      "freq": "semana",
-      "vezes": 3,
-      "mapsUrl": "https://maps.app.goo.gl/12JYJq2z9nHLaSNh7"
-    },
-    {
-      "nome": "Canhoba",
-      "dist": 43,
-      "freq": "semana",
-      "vezes": 0,
-      "mapsUrl": "https://maps.app.goo.gl/SDzDSPf2Aiy7u6or9"
-    },
-    {
-      "nome": "Propriá Retiro Pedro Reys",
-      "dist": 87,
-      "freq": "eventual",
-      "vezes": 0,
-      "mapsUrl": "http://maps.google.com/maps?saddr=(-10.2113438%2C-36.8328475)&daddr=Retiro%20to%3AE.E%20Professor%20Pedro%20Reys%20to%3ARetiro%20to%3ACasa&geocode=FfEvZP8dsfnN_Q%3D%3D%3BFVxkZv8dQCrQ_SkAAAAAAAAAADFYTFmMb5YFcA%3D%3D%3BFf9tZf8dGbnQ_SkAAAAAAAAAADE3OHwITY-N6g%3D%3D%3BFVxkZv8dQCrQ_SkAAAAAAAAAADFYTFmMb5YFcA%3D%3D%3BFbMtZP8dFvbN_SkAAAAAAAAAADGJbD7yYVgHng%3D%3D&dirflg=d"
     }
   ],
   "manutencao": [
@@ -1255,7 +1171,7 @@
       "title": "Italian Tune-up",
       "freq": 3000,
       "desc": "Combate acumulo de carbono nas valvulas",
-      "done": true
+      "done": false
     },
     {
       "title": "Troca do Ar do Motor",
@@ -1279,15 +1195,14 @@
   "historico": [],
   "config": {
     "gasPrice": 7.07,
-    "ethPrice": 5.6,
+    "ethPrice": 5.05,
     "gasConsume": 10.21,
     "ethConsume": 9.25,
     "nextReview": 29373,
     "cicloAtualNum": 3,
-    "veiApelido": "T-CROSS",
-    "veiModelo": "T-CROSS SENSE",
+    "veiApelido": "",
+    "veiModelo": "T-Cross",
     "veiMotor": "TSI 1.0",
-    "simMedia": null,
     "githubRepo": "acmandacaru4-web/myflexdados"
   }
 }
