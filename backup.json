@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T12:47:24.617Z",
+    "dataExport": "2026-06-20T12:48:20.345Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1232,13 +1232,6 @@
       "freq": "semana",
       "vezes": 3,
       "mapsUrl": "https://maps.app.goo.gl/12JYJq2z9nHLaSNh7"
-    },
-    {
-      "nome": "Canhoba",
-      "dist": 43,
-      "freq": "semana",
-      "vezes": 0,
-      "mapsUrl": "https://maps.app.goo.gl/SDzDSPf2Aiy7u6or9"
     },
     {
       "nome": "Propriá Retiro Pedro Reys",
