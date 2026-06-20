@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T20:29:37.201Z",
+    "dataExport": "2026-06-20T20:34:12.986Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1194,10 +1194,10 @@
   "trajetos": [
     {
       "nome": "Aracaju",
-      "dist": 227,
+      "dist": 213,
       "freq": "mes",
       "vezes": 1,
-      "mapsUrl": ""
+      "mapsUrl": "https://maps.app.goo.gl/yarqBWaWQd83CHh66"
     },
     {
       "nome": "Baixa Grande por Sapucaia",
