@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T17:45:58.591Z",
+    "dataExport": "2026-06-20T17:47:06.339Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -336,6 +336,22 @@
       "desc": "",
       "parcial": false,
       "volumeTotal": 20.73,
+      "combC": "Gasolina",
+      "misto": false
+    },
+    {
+      "data": "20/06/26",
+      "odo": 27000,
+      "km": 891,
+      "vol": 30,
+      "cons": 29.7,
+      "comb": "Gasolina",
+      "total": 212.1,
+      "pl": 7.07,
+      "posto": "",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 30,
       "combC": "Gasolina",
       "misto": false
     }
