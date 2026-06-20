@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T17:45:33.682Z",
+    "dataExport": "2026-06-20T17:45:58.591Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1246,6 +1246,13 @@
       "freq": "semana",
       "vezes": 0,
       "mapsUrl": "https://maps.app.goo.gl/Ae9ATg7C1N1JbEg59"
+    },
+    {
+      "nome": "Pirambu",
+      "dist": 150,
+      "freq": "eventual",
+      "vezes": 0,
+      "mapsUrl": ""
     }
   ],
   "manutencao": [
