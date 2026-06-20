@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T20:34:12.986Z",
+    "dataExport": "2026-06-20T20:44:56.899Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1228,10 +1228,10 @@
     },
     {
       "nome": "Mãe",
-      "dist": 5.1,
+      "dist": 6.4,
       "freq": "semana",
       "vezes": 3,
-      "mapsUrl": "https://maps.app.goo.gl/12JYJq2z9nHLaSNh7"
+      "mapsUrl": "🚗 Rotas de carro de R. Josias Teixeira Lima, 125 para R. Josias Teixeira Lima, 125 (cerca de 21min).\nToque para abrir no Google Maps: https://maps.app.goo.gl/TGuJKxpgJkGupM3c8"
     },
     {
       "nome": "Propriá Retiro Pedro Reys",
