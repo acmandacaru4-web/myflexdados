@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-06-20T20:44:56.899Z",
+    "dataExport": "2026-06-26T21:39:02.424Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -336,6 +336,22 @@
       "desc": "",
       "parcial": false,
       "volumeTotal": 20.73,
+      "combC": "Gasolina",
+      "misto": false
+    },
+    {
+      "data": "26/06/26",
+      "odo": 26595,
+      "km": 486,
+      "vol": 40.102,
+      "cons": 12.12,
+      "comb": "Gasolina",
+      "total": 283.52,
+      "pl": 7.07,
+      "posto": "Jet7",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 40.1,
       "combC": "Gasolina",
       "misto": false
     }
