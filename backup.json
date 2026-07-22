@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-18T22:06:37.683Z",
+    "dataExport": "2026-07-22T21:02:08.959Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -384,6 +384,22 @@
       "desc": "",
       "parcial": false,
       "volumeTotal": 34.65,
+      "combC": "Gasolina",
+      "misto": false
+    },
+    {
+      "data": "22/07/26",
+      "odo": 27805,
+      "km": 439,
+      "vol": 36.7,
+      "cons": 11.96,
+      "comb": "Etanol",
+      "total": 256.53,
+      "pl": 6.99,
+      "posto": "Pel",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 36.7,
       "combC": "Gasolina",
       "misto": false
     }
@@ -1207,8 +1223,8 @@
   "postos": [
     {
       "nome": "Posto PEL",
-      "gasP": 7.1,
-      "ethP": 5.6,
+      "gasP": 6.99,
+      "ethP": 5.52,
       "gasKmL": 10.2,
       "ethKmL": 8.1,
       "gasT": "Aditivada",
