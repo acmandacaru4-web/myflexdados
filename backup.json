@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-22T21:02:08.959Z",
+    "dataExport": "2026-07-22T21:02:30.427Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -394,8 +394,8 @@
       "vol": 36.7,
       "cons": 11.96,
       "comb": "Etanol",
-      "total": 256.53,
-      "pl": 6.99,
+      "total": 202.58,
+      "pl": 5.52,
       "posto": "Pel",
       "desc": "",
       "parcial": false,
