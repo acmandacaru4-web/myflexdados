@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-23T00:52:48.895Z",
+    "dataExport": "2026-07-23T00:52:58.244Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1274,7 +1274,7 @@
       "nome": "Baixa Grande por Lagoa Redonda",
       "dist": 181,
       "freq": "eventual",
-      "vezes": 1,
+      "vezes": 0,
       "mapsUrl": "https://maps.app.goo.gl/tJuLZBwAvRSZ4Bk1A"
     },
     {
