@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-23T00:48:58.816Z",
+    "dataExport": "2026-07-23T00:51:08.235Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1266,8 +1266,8 @@
     {
       "nome": "Baixa Grande por Sapucaia",
       "dist": 140,
-      "freq": "eventual",
-      "vezes": 0,
+      "freq": "semana",
+      "vezes": 1,
       "mapsUrl": "https://maps.app.goo.gl/RNiii31HGsjQftSG7"
     },
     {
@@ -1351,7 +1351,7 @@
   ],
   "historico": [],
   "config": {
-    "gasPrice": 7.07,
+    "gasPrice": 6.99,
     "ethPrice": 5.6,
     "gasConsume": 10.21,
     "ethConsume": 9.25,
