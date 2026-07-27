@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-23T00:52:58.244Z",
+    "dataExport": "2026-07-27T16:47:28.267Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -402,6 +402,22 @@
       "volumeTotal": 36.7,
       "combC": "Gasolina",
       "misto": false
+    },
+    {
+      "data": "27/07/26",
+      "odo": 28032,
+      "km": 227,
+      "vol": 27.28,
+      "cons": 8.32,
+      "comb": "Etanol",
+      "total": 145.95,
+      "pl": 5.35,
+      "posto": "Rosa elze",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 27.28,
+      "combC": "Misto",
+      "misto": true
     }
   ],
   "ciclo1": [
