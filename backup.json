@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-27T16:47:28.267Z",
+    "dataExport": "2026-07-27T19:20:24.076Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1250,8 +1250,8 @@
     },
     {
       "nome": "Posto Arthur Melo",
-      "gasP": 7.07,
-      "ethP": 5.6,
+      "gasP": 6.95,
+      "ethP": 5.55,
       "gasKmL": 10.2,
       "ethKmL": 8.1,
       "favEth": false,
