@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-27T21:42:23.009Z",
+    "dataExport": "2026-07-27T21:42:24.758Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1376,10 +1376,7 @@
     "veiApelido": "T-CROSS",
     "veiModelo": "T-CROSS SENSE",
     "veiMotor": "TSI 1.0",
-    "simMedia": {
-      "gas": 0,
-      "eth": 9.4
-    },
+    "simMedia": null,
     "githubRepo": "acmandacaru4-web/myflexdados"
   }
 }
