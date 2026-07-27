@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-27T19:21:08.162Z",
+    "dataExport": "2026-07-27T21:41:00.018Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1251,7 +1251,7 @@
     {
       "nome": "Posto Arthur Melo",
       "gasP": 6.95,
-      "ethP": 5.55,
+      "ethP": 5.6,
       "gasKmL": 10.2,
       "ethKmL": 8.1,
       "favEth": false,
@@ -1367,7 +1367,7 @@
   ],
   "historico": [],
   "config": {
-    "gasPrice": 6.99,
+    "gasPrice": 6.95,
     "ethPrice": 5.6,
     "gasConsume": 10.21,
     "ethConsume": 9.25,
