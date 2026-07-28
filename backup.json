@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-27T21:42:24.758Z",
+    "dataExport": "2026-07-28T22:42:52.669Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1240,7 +1240,7 @@
     {
       "nome": "Posto PEL",
       "gasP": 6.99,
-      "ethP": 5.52,
+      "ethP": 5.39,
       "gasKmL": 10.2,
       "ethKmL": 8.1,
       "gasT": "Aditivada",
