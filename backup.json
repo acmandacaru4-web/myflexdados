@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-29T18:43:37.421Z",
+    "dataExport": "2026-07-29T18:44:23.999Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1262,7 +1262,7 @@
       "gasT": "Aditivada",
       "ethT": "Aditivado",
       "favEth": true,
-      "favGas": false
+      "favGas": true
     },
     {
       "nome": "Posto Arthur Melo",
@@ -1273,7 +1273,7 @@
       "favEth": false,
       "gasT": "Aditivada",
       "ethT": "Aditivado",
-      "favGas": true
+      "favGas": false
     },
     {
       "nome": "Posto Orla Propria",
