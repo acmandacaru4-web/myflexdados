@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-07-30T17:26:09.581Z",
+    "dataExport": "2026-07-30T17:26:15.482Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1262,7 +1262,7 @@
       "gasT": "Aditivada",
       "ethT": "Aditivado",
       "favEth": false,
-      "favGas": false
+      "favGas": true
     },
     {
       "nome": "Posto Arthur Melo",
@@ -1273,7 +1273,7 @@
       "favEth": true,
       "gasT": "Aditivada",
       "ethT": "Aditivado",
-      "favGas": true
+      "favGas": false
     },
     {
       "nome": "Posto Orla Propria",
@@ -1383,8 +1383,8 @@
   ],
   "historico": [],
   "config": {
-    "gasPrice": 6.95,
-    "ethPrice": 5.39,
+    "gasPrice": 6.96,
+    "ethPrice": 5.6,
     "gasConsume": 10.21,
     "ethConsume": 9.25,
     "nextReview": 29373,
