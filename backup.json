@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-04T17:27:45.192Z",
+    "dataExport": "2026-08-04T17:40:05.640Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1383,7 +1383,7 @@
   ],
   "historico": [],
   "config": {
-    "gasPrice": 6.96,
+    "gasPrice": 6.89,
     "ethPrice": 5.39,
     "gasConsume": 10.21,
     "ethConsume": 9.25,
