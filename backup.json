@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-04T17:40:05.640Z",
+    "dataExport": "2026-08-06T19:59:23.397Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1262,7 +1262,7 @@
       "gasT": "Aditivada",
       "ethT": "Aditivado",
       "favEth": true,
-      "favGas": false
+      "favGas": true
     },
     {
       "nome": "Posto Arthur Melo",
@@ -1273,7 +1273,7 @@
       "favEth": false,
       "gasT": "Aditivada",
       "ethT": "Aditivado",
-      "favGas": true
+      "favGas": false
     },
     {
       "nome": "Posto Orla Propria",
@@ -1320,7 +1320,8 @@
       "nome": "Pedro Reys",
       "dist": 66.8,
       "freq": "semana",
-      "vezes": 2
+      "vezes": 3,
+      "mapsUrl": ""
     },
     {
       "nome": "Mãe",
