@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-06T19:59:23.397Z",
+    "dataExport": "2026-08-09T20:44:21.473Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -432,6 +432,22 @@
       "desc": "",
       "parcial": false,
       "volumeTotal": 27.17,
+      "combC": "Etanol",
+      "misto": false
+    },
+    {
+      "data": "06/08/26",
+      "odo": 28553,
+      "km": 267,
+      "vol": 31.4,
+      "cons": 8.5,
+      "comb": "Etanol",
+      "total": 156.69,
+      "pl": 4.99,
+      "posto": "Pel",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 31.4,
       "combC": "Etanol",
       "misto": false
     }
@@ -1298,8 +1314,8 @@
     {
       "nome": "Baixa Grande por Sapucaia",
       "dist": 140,
-      "freq": "eventual",
-      "vezes": 0,
+      "freq": "semana",
+      "vezes": 1,
       "mapsUrl": "https://maps.app.goo.gl/RNiii31HGsjQftSG7"
     },
     {
