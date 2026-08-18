@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-16T23:02:20.080Z",
+    "dataExport": "2026-08-18T18:46:05.610Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -471,18 +471,18 @@
       "misto": false
     },
     {
-      "data": "16/08/2026",
-      "odo": 29012,
-      "km": 238,
-      "vol": 1,
-      "cons": 0,
+      "data": "18/08/2026",
+      "odo": 29090,
+      "km": 316,
+      "vol": 33.42,
+      "cons": 9.46,
       "comb": "Gasolina",
-      "total": 1,
-      "pl": 1,
-      "posto": "Monitoramento",
+      "total": 230.26,
+      "pl": 6.89,
+      "posto": "Pel",
       "desc": "",
       "parcial": false,
-      "volumeTotal": 1,
+      "volumeTotal": 33.42,
       "combC": "Etanol",
       "misto": false
     }
