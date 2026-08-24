@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-24T20:17:30.304Z",
+    "dataExport": "2026-08-24T20:17:34.895Z",
     "schemaVersion": 1
   },
   "cicloAtual": [],
@@ -912,7 +912,9 @@
       "title": "Troca de Oleo e Filtro",
       "freq": 10000,
       "desc": "Essencial para manter o motor saudavel",
-      "done": false
+      "done": true,
+      "lastKm": 19505,
+      "lastKmAnterior": null
     },
     {
       "title": "Verificacao do Nivel de Oleo",
