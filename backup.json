@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-24T20:17:34.895Z",
+    "dataExport": "2026-08-24T20:33:11.225Z",
     "schemaVersion": 1
   },
   "cicloAtual": [],
@@ -868,7 +868,7 @@
       "nome": "Baixa Grande por Sapucaia",
       "dist": 140,
       "freq": "semana",
-      "vezes": 1,
+      "vezes": 2,
       "mapsUrl": "https://maps.app.goo.gl/RNiii31HGsjQftSG7"
     },
     {
