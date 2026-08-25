@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-24T20:33:11.225Z",
+    "dataExport": "2026-08-25T22:03:10.739Z",
     "schemaVersion": 1
   },
   "cicloAtual": [],
@@ -1466,6 +1466,9 @@
     "lastReview": 29331,
     "revisaoIntervalo": 10115,
     "cicloAtualNum": 4,
+    "odoManual": 29446,
+    "odoManualData": "25/08/2026",
+    "revisaoData": "",
     "gasConsume": 10.21,
     "ethConsume": 9.25,
     "veiApelido": "T-CROSS",
