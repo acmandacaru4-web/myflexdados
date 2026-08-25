@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-25T22:03:10.739Z",
+    "dataExport": "2026-08-25T22:14:26.259Z",
     "schemaVersion": 1
   },
   "cicloAtual": [],
@@ -913,7 +913,7 @@
       "freq": 10000,
       "desc": "Essencial para manter o motor saudavel",
       "done": true,
-      "lastKm": 19505,
+      "lastKm": 29446,
       "lastKmAnterior": null
     },
     {
@@ -1455,7 +1455,7 @@
           "misto": true
         }
       ],
-      "revisaoKm": 29331,
+      "revisaoKm": 29446,
       "data": "24/08/2026"
     }
   ],
@@ -1463,8 +1463,8 @@
     "gasPrice": 6.89,
     "ethPrice": 5.39,
     "nextReview": 39446,
-    "lastReview": 29331,
-    "revisaoIntervalo": 10115,
+    "lastReview": 29446,
+    "revisaoIntervalo": 10000,
     "cicloAtualNum": 4,
     "odoManual": 29446,
     "odoManualData": "25/08/2026",
