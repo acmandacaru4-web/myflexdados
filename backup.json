@@ -1,10 +1,27 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-08-25T22:17:35.982Z",
+    "dataExport": "2026-08-26T17:53:38.010Z",
     "schemaVersion": 1
   },
-  "cicloAtual": [],
+  "cicloAtual": [
+    {
+      "data": "26/08/2026",
+      "odo": 29686,
+      "km": 355,
+      "vol": 30.73,
+      "cons": 11.55,
+      "comb": "Gasolina",
+      "total": 211.73,
+      "pl": 6.89,
+      "posto": "Pel",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 30.73,
+      "combC": "Gasolina",
+      "misto": false
+    }
+  ],
   "ciclo1": [
     {
       "data": "30/07/2025",
