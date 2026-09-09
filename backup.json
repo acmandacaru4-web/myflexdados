@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-09-06T12:53:01.564Z",
+    "dataExport": "2026-09-09T18:45:17.528Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -52,6 +52,22 @@
       "volumeTotal": 35.86,
       "combC": "Misto",
       "misto": true
+    },
+    {
+      "data": "09/09/2026",
+      "odo": 30655,
+      "km": 214,
+      "vol": 26.03,
+      "cons": 8.22,
+      "comb": "Etanol",
+      "total": 129.89,
+      "pl": 4.99,
+      "posto": "Pel",
+      "desc": "",
+      "parcial": false,
+      "volumeTotal": 26.03,
+      "combC": "Etanol",
+      "misto": false
     }
   ],
   "ciclo1": [
