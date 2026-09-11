@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-09-09T18:45:17.528Z",
+    "dataExport": "2026-09-11T15:38:49.606Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -985,7 +985,9 @@
       "title": "Verificacao do Nivel de Oleo",
       "freq": 1000,
       "desc": "Verificar se esta no nivel correto",
-      "done": false
+      "done": true,
+      "lastKm": 30655,
+      "lastKmAnterior": null
     },
     {
       "title": "Nivelacao e Balanceamento de Pneus",
