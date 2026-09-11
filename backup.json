@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-09-11T15:39:10.028Z",
+    "dataExport": "2026-09-11T15:39:12.335Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1019,7 +1019,9 @@
       "title": "Verificacao do Freio",
       "freq": 10000,
       "desc": "Pastilhas e discos",
-      "done": false
+      "done": true,
+      "lastKm": 30655,
+      "lastKmAnterior": null
     }
   ],
   "historico": [
