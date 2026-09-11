@@ -1,7 +1,7 @@
 {
   "_meta": {
     "versaoApp": "1.1.0",
-    "dataExport": "2026-09-11T15:38:49.606Z",
+    "dataExport": "2026-09-11T15:39:10.028Z",
     "schemaVersion": 1
   },
   "cicloAtual": [
@@ -1011,7 +1011,9 @@
       "title": "Filtro de Combustivel",
       "freq": 10000,
       "desc": "Essencial para injecao",
-      "done": false
+      "done": true,
+      "lastKm": 30655,
+      "lastKmAnterior": null
     },
     {
       "title": "Verificacao do Freio",
